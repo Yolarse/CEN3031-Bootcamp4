@@ -261,7 +261,7 @@ For this assignment you will be building upon our UF directory application by cr
 #### In this GitHub Repository, you are given the following files
 *When using the [create-react-app](https://github.com/facebook/create-react-app) read the readMe to get a starter application up and running, you can replace the src file in the starter application with the src file from the Bootcamp #4 assignment repo*
 - *Data.js* - A list of buildings formatted to work with React and JSX to render the contents to the browser
-- *index.css* - A starter CSS templage for you to use for this project
+- *index.css* - A starter CSS templage for you to use for this project.
 - *app.css* - An empty file that we aren't using for this project but do not delete it as it will affect the functioning of your program
 - *index.js* - This file is used in creating the application file that you will be manipulating through the App.js file. This is where we have injected the data.js file and the building data that we pass around for the entire application.
 - *App.js* - This is the main application we are developing. The majority of our development will be in this file.
